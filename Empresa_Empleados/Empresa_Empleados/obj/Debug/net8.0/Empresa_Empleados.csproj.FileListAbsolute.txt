@@ -1,0 +1,14 @@
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\bin\Debug\net8.0\Empresa_Empleados.exe
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\bin\Debug\net8.0\Empresa_Empleados.deps.json
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\bin\Debug\net8.0\Empresa_Empleados.runtimeconfig.json
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\bin\Debug\net8.0\Empresa_Empleados.dll
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\bin\Debug\net8.0\Empresa_Empleados.pdb
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\obj\Debug\net8.0\Empresa_Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\obj\Debug\net8.0\Empresa_Empleados.AssemblyInfoInputs.cache
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\obj\Debug\net8.0\Empresa_Empleados.AssemblyInfo.cs
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\obj\Debug\net8.0\Empresa_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\obj\Debug\net8.0\Empresa_Empleados.dll
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\obj\Debug\net8.0\refint\Empresa_Empleados.dll
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\obj\Debug\net8.0\Empresa_Empleados.pdb
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\obj\Debug\net8.0\Empresa_Empleados.genruntimeconfig.cache
+C:\Users\estudiante.upb\source\repos\Empresa_Empleados\Empresa_Empleados\obj\Debug\net8.0\ref\Empresa_Empleados.dll
